@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Startups</string>
     <string name="title_activity_home">Home</string>
-    <string name="splash_message">welcome to startups <br/>
-        Our aim is to support and/or collaborate with small but promising companies or projects<br/>
-        that lack enough funds to accomplish their bussiness  goals <br/> through connecting them to possible investors
+    <string name="splash_message">
+        Let your bussiness grow faster <br/>
+        We can help you to get clients and/or connect to potential investors <br/>
+        You are just a button click away.
     </string>
 </resources>

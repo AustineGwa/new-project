@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Kenyan Startups</string>
+    <string name="app_name">Startups</string>
     <string name="title_activity_home">Home</string>
-    <string name="splash_message">welcome to kenyan startups <br/>
+    <string name="splash_message">welcome to startups <br/>
         Our aim is to support and/or collaborate with small but promising companies or projects<br/>
         that lack enough funds to accomplish their bussiness  goals <br/> through connecting them to possible investors
     </string>
